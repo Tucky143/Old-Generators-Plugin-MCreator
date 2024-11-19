@@ -1,0 +1,14 @@
+{
+    "id": "old_generators",
+    "weight": 99,
+    "supportedversions": [
+      2024003
+    ],
+    "info": {
+      "name": "Old Generators",
+      "version": "1.0",
+      "description": "Adds old generators that aren't supported anymore.",
+      "author": "Author1, Author2, Author3, ..."
+    }
+  }
+  
